@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sandip7677
 - 👀 I’m interested in coading and developement
-- 🌱 I’m currently learning web technology
+- 🌱 I’m currently working as front end developer
 - 💞️ I’m looking to collaborate on web developement
 - 📫 Reach me at anujmehta3578@gmail.com or at https://www.linkedin.com/in/anuj-kumar-2609491b6/
 
